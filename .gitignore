@@ -2,3 +2,7 @@
 *.class
 *.iml
 target
+*.xcworkspace 
+xcuserdata 
+*.lock 
+Pods
